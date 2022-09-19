@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mmaqshiny",
+    "oncran": true
+  }
+]
